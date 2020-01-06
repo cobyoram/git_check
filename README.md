@@ -11,4 +11,4 @@ How  do you revert (backout) a commit?
 ANS: There is an undo button that shows up when I make a commit.
 
 What does HEAD refer to in the context of git?
-ANS: HEAD is a pointer pointing to the most recent commit.
+ANS: HEAD is a pointer pointing to the most recent commit in the current branch.
